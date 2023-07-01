@@ -1,0 +1,36 @@
+Python Fundamnentals:
+https://github.com/growdataskills/Python_Fundamentals
+
+Docker Fundamentals and Installation:
+https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs
+
+Github Fundamentals:
+https://www.youtube.com/watch?v=8JJ101D3knE
+
+Linux Basics:
+https://github.com/growdataskills/Linux-Basics
+
+Pandas Fundamentals:
+https://github.com/growdataskills/Pandas
+
+Big Data Fundamentals:
+https://ptgmedia.pearsoncmg.com/images/9780134291079/samplepages/9780134291079.pdf
+https://medium.com/dssimplified/understanding-the-basics-of-big-data-analytics-50801a0adde6
+https://data-flair.training/blogs/hadoop-tutorial/
+
+Hive Fundamentals:
+https://d2s2mc5mfsrgxi.cloudfront.net/spees/w/o/6437cee9e4b0fd108b394327/v/648ab711e4b09b7808f1051a/u/64719510e4b0a0f084d92c74/p/assets/pdfs/2023/06/15/648ab711e4b09b7808f1051a/648ab711e4b09b7808f1051a_original.pdf?Expires=1688191781&Signature=DKC~tpDdQIdUZQidiuSn7sIxaPZbjnsbVi209s9MsgMg~oXUvMQl5KzOmjBNSklTeGdTMhttnVn8SDZLTLjUuofEJPYA51CEHGEeBuonVHRWbpv4myaOTn87AEF8ckWlPot8Jx0g7OiPFd6~-A6WpRvwikcu6C1YJy~JuhYhAgX0ZECXhaYsp~68kqlWK80-jX2AoE7sKFx77HmWRp9AH4zga7KN9wVE3H-7cDsS-tK22VunVz2J5o6w9ep68GsEmSXIADlaLIslwodIqw4l1x~hAxwKrEwzQo0uwxeL2srNdDOsb34Fb4bDRsQA-nF57ze5N7-an9qzU7Hs-Rhc3w__&Key-Pair-Id=APKAJOZ4DDU7J2AXJMJA
+
+GCP Setup :
+https://www.youtube.com/watch?v=pIZ8uyxY3jg&list=PLeOtIjHQdqvFtYzoFL-DCYx_Sw-5iBJQ4&index=3
+setting up data proc in GCP:
+https://www.youtube.com/watch?v=HrGxUxcqXI8&list=PLeOtIjHQdqvFtYzoFL-DCYx_Sw-5iBJQ4&index=6
+
+Kafka Fundamentals:
+https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH
+
+Blog for Kafka:
+https://data-flair.training/blogs/apache-kafka-tutorial/
+
+github link:
+https://github.com/growdataskills
