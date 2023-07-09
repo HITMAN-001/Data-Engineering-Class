@@ -1,0 +1,5 @@
+1. Open Datastax account(this is DB NOSQL DB service provider)
+2. Create the DB. (Regions Default/Free and Keyspace = "cassandra_keyspace")
+3. Connect through tab called CQl console.
+4. Download the bundle.
+5. Generate the token for connection to the DB from code.

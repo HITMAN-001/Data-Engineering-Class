@@ -1,0 +1,16 @@
+{
+  "host": "c96eef1f-ddef-4e14-a4fd-2e01788b1b9e-us-east1.db.astra.datastax.com",
+  "port": 29080,
+  "cql_port": 29042,
+  "keyspace": "cassandra_cluster",
+  "localDC": "us-east1",
+  "caCertLocation": "./ca.crt",
+  "keyLocation": "./key",
+  "certLocation": "./cert",
+  "keyStoreLocation": "./identity.jks",
+  "keyStorePassword": "uE8KU0aTxNcs6M42m",
+  "trustStoreLocation": "./trustStore.jks",
+  "trustStorePassword": "BRwtYCAbPa2981Iv6",
+  "csvLocation": "./data",
+  "pfxCertPassword": "0e6IirNf1MVCo9G4w"
+}
