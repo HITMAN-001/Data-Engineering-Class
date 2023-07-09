@@ -4,3 +4,4 @@ Flow of Study for Data Engineering Job:
 3. Make use of most of the Tools that you have used.
 4. Search for internal job availability. Parallelly apply for the jobs in the market.
 5. Multiply and Keep learning. Do as many projects as possible when you get time.
+
